@@ -15,7 +15,7 @@ Virtually binds a passenger’s identity to his/her luggage using biometrics (fi
 
 # Technology
 GUI: Python, Tkinter  
-Fingerprint matching: OpenCV, scikit-image
+Fingerprint matching: OpenCV, scikit-image   
 Automation: AutoIt  
 Fingerprint scanning: SFGDemo  
 
