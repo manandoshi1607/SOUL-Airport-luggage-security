@@ -14,7 +14,7 @@ Virtually binds a passenger’s identity to his/her luggage using biometrics (fi
 * Now only if the currently given fingerprint matches the one pointed by the QR code, access to bag is allowed.  
 
 # Technology
-GUI: Python, Tkinter
+GUI: Python, Tkinter  
 Fingerprint matching: OpenCV, scikit-learn
 
 # Contributors
