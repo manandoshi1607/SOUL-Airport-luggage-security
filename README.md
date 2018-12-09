@@ -1,5 +1,5 @@
 # SOUL-Airport-luggage-security
-Virtually binds a passenger’s identity to his/her luggage using biometrics (fingerprint) and artifact (QR code) to ensure that a passenger can only access luggage he/she owns. SOUL (Security Of Your Luggage) system is a desktop application built using Python, Tkinter, scikit-learn and OpenCV. It prevents theft of bags by matching fingerpints at arrival to confirm ownership.  
+Virtually binds a passenger’s identity to his/her luggage using biometrics (fingerprint) and artifact (QR code) to ensure that a passenger can only access luggage he/she owns. SOUL (Security Of Your Luggage) system is a desktop application built using Python, Tkinter, scikit-learn and OpenCV. It prevents theft of bags by matching fingerpints at arrival to confirm ownership. All important scripts are placed in Arrival folder.
 
 # Departure
 * The passenger inputs his/her fingerprint using a fingerprint scanner which is recorded by the system.  
@@ -15,7 +15,9 @@ Virtually binds a passenger’s identity to his/her luggage using biometrics (fi
 
 # Technology
 GUI: Python, Tkinter  
-Fingerprint matching: OpenCV, scikit-learn
+Fingerprint matching: OpenCV, scikit-learn  
+Automation: AutoIt  
+Fingerprint scanning: SFGDemo  
 
 # Contributors
 1. Neel patel
