@@ -11,7 +11,7 @@ Virtually binds a passenger’s identity to his/her luggage using biometrics (fi
 * The passenger picks up his/her luggage and reaches the checkpoint for baggage verification.  
 * The passenger inputs his/her fingerprint  
 * Next the system scans the QR codes on the luggage and decodes the encrypted token stored within.  
-* Now only if the currently given fingerprint matches the one pointed by the QR code, access to bag is allowed.  
+* Now only if the currently given fingerprint matches the one pointed by the QR code, access to bag is allowed and token is destroyed from the system to keep track of processed passengers. 
 
 # Technology
 GUI: Python, Tkinter  
